@@ -3,7 +3,9 @@
 
 fields of activity:
 1- Design of car tracking systems.
+
 2- Designing control and monitoring systems in order to monitor environmental factors.
+
 3- PCB design.
 4- Designing Android and IOS applications.
 5- Designing an application using Python
